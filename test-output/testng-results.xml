@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Test Automation Suite" duration-ms="35269" started-at="2021-01-13T20:10:52 GMT+05:30" finished-at="2021-01-13T20:11:27 GMT+05:30">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35269" started-at="2021-01-13T20:10:52 GMT+05:30" finished-at="2021-01-13T20:11:27 GMT+05:30">
+      <class name="com.bookstore.qa.test.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bookstore.qa.test.LoginPageTest@7113b13f]" name="setUp" is-config="true" duration-ms="10252" started-at="2021-01-13T20:10:52 GMT+05:30" finished-at="2021-01-13T20:11:02 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.bookstore.qa.test.LoginPageTest@7113b13f]" name="loginPageTitleTest" duration-ms="494" started-at="2021-01-13T20:11:02 GMT+05:30" finished-at="2021-01-13T20:11:02 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bookstore.qa.test.LoginPageTest@7113b13f]" name="tearDown" is-config="true" duration-ms="1240" started-at="2021-01-13T20:11:02 GMT+05:30" finished-at="2021-01-13T20:11:04 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bookstore.qa.test.LoginPageTest -->
+      <class name="com.bookstore.qa.test.ProfilePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bookstore.qa.test.ProfilePageTest@45820e51]" name="setUp" is-config="true" duration-ms="6593" started-at="2021-01-13T20:11:04 GMT+05:30" finished-at="2021-01-13T20:11:10 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addBookToProfileTest()[pri:-1, instance:com.bookstore.qa.test.ProfilePageTest@45820e51]" name="addBookToProfileTest" duration-ms="424" started-at="2021-01-13T20:11:10 GMT+05:30" finished-at="2021-01-13T20:11:11 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookToProfileTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bookstore.qa.test.ProfilePageTest@45820e51]" name="tearDown" is-config="true" duration-ms="722" started-at="2021-01-13T20:11:11 GMT+05:30" finished-at="2021-01-13T20:11:11 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bookstore.qa.test.ProfilePageTest@45820e51]" name="setUp" is-config="true" duration-ms="6593" started-at="2021-01-13T20:11:11 GMT+05:30" finished-at="2021-01-13T20:11:18 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="removeBookFromProfileTest()[pri:2, instance:com.bookstore.qa.test.ProfilePageTest@45820e51]" name="removeBookFromProfileTest" duration-ms="411" started-at="2021-01-13T20:11:18 GMT+05:30" finished-at="2021-01-13T20:11:18 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeBookFromProfileTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bookstore.qa.test.ProfilePageTest@45820e51]" name="tearDown" is-config="true" duration-ms="670" started-at="2021-01-13T20:11:18 GMT+05:30" finished-at="2021-01-13T20:11:19 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.bookstore.qa.test.ProfilePageTest@45820e51]" name="setUp" is-config="true" duration-ms="6684" started-at="2021-01-13T20:11:19 GMT+05:30" finished-at="2021-01-13T20:11:26 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchBookInProfileTest()[pri:3, instance:com.bookstore.qa.test.ProfilePageTest@45820e51]" name="searchBookInProfileTest" duration-ms="382" started-at="2021-01-13T20:11:26 GMT+05:30" finished-at="2021-01-13T20:11:26 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBookInProfileTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bookstore.qa.test.ProfilePageTest@45820e51]" name="tearDown" is-config="true" duration-ms="723" started-at="2021-01-13T20:11:26 GMT+05:30" finished-at="2021-01-13T20:11:27 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.bookstore.qa.test.ProfilePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Test Automation Suite -->
+</testng-results>
